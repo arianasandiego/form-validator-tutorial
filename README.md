@@ -9,4 +9,10 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
   - Email
   - Password
   - Confirm Password
-- Reegister Button
+- Register Button
+
+2. CSS
+
+- Basic Reset
+- Form Group
+- Button
