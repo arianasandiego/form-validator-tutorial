@@ -16,3 +16,16 @@ Followed 100 HTML CSS JavaScript Projects for Beginners in 2026 by Codesistency
 - Basic Reset
 - Form Group
 - Button
+
+3. JS
+
+- DOM Elements
+- Event Listener
+- Functions
+  - Check Passwords Match
+  - Check Email
+  - Check Length
+  - Check Required
+  - Format Field Name
+  - Show Error
+  - Show Success
